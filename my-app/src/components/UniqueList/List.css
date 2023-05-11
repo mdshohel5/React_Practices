@@ -1,0 +1,18 @@
+.listCard{
+    width: 450px;
+    margin: 10px 20px;
+    display: inline-block;
+    border-radius: 5px;
+    box-shadow: 10px 10px 10px gray;
+    background-color: rgb(237, 181, 76);
+
+}
+.title{
+    padding: 10px 0px;
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+}
+.desc{
+    padding: 5px 10px;
+}

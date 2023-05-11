@@ -1,0 +1,21 @@
+.card{
+  width: 470px;
+  background-color: rgb(241, 188, 90);
+  margin: 10px 20px;
+  border-radius: 10px;
+  display: inline-block;
+}
+.cardTitle{
+    text-align: center;
+    padding: 10px 0px;
+    font-weight: bold;
+}
+.cardDesc{
+    padding: 0px 20px;
+}
+.cardFooter{
+    padding: 5px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+}

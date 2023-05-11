@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "flag":"./images/0.jpg",
+        "title":"This is card number one",
+        "desc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. "
+    },
+    {
+        "id": 2,
+        "flag":"./images/1.jpg",
+        "title":"This is card number two",
+        "desc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. "
+    },
+    {
+        "id": 3,
+        "flag":"./images/2.jpg",
+        "title":"This is card number three",
+        "desc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. "
+    },
+    {
+        "id": 4,
+        "flag":"./images/3.jpg",
+        "title":"This is card number four",
+        "desc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. "
+    },
+    {
+        "id": 5,
+        "flag":"./images/4.jpg",
+        "title":"This is card number five",
+        "desc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. "
+    },
+    {
+        "id": 6,
+        "flag":"./images/5.jpg",
+        "title":"This is card number six",
+        "desc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. "
+    }
+]

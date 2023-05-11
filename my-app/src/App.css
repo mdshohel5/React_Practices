@@ -1,0 +1,13 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.todoHeading{
+    font-weight: bold;
+    padding: 10px 0px;
+    background-color: purple;
+    color: white;
+    margin: 10px 0px;
+    text-align: center;
+    box-shadow: 5px 5px 5px gray;
+}
