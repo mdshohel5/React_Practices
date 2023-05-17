@@ -1,0 +1,11 @@
+.iconsHeading{
+    padding: 20px 0px;
+    text-align: center;
+}
+.icon{
+    margin-top: 200px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    font-size: 50px;
+}

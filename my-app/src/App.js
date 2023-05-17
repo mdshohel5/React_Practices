@@ -1,12 +1,11 @@
-import styles from './App.css'
-import Data from './components/UniqueList/Data';
 
+import CounterApp from "./components/Use_State_Hooks/CounterApp";
 
 
 function App() {
   return (
     <>
-      <Data></Data>
+      <CounterApp></CounterApp>
     </>
   );
 }

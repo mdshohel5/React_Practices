@@ -1,0 +1,37 @@
+.formSection{
+    width: 100%;
+    background-color: purple;
+    height: 100vh;
+    margin: 0 auto;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px gray;
+}
+.title{
+    font-weight: bold;
+    padding: 20px 0px;
+    color: goldenrod;
+    text-align: center;
+}
+.inputData{
+    width: 100%;
+    text-align: center;
+    padding: 4px 50px;
+    color: white;
+}
+.inputField{
+    width: 400px;
+    margin: 0px 50px;
+}
+.submitBtn{
+    text-align: center;
+    padding: 30px 0px;
+}
+.submitBtn button{
+    width: 200px;
+    background-color: lawngreen;
+    padding: 5px 0px;
+    text-align: center;
+    border-radius: 5px;
+    font-size: 20px;
+    font-weight: bold;
+}

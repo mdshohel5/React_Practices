@@ -1,0 +1,29 @@
+.counterApp{
+    width: 1000px;
+    height: 0 auto;
+    background-color: rgb(49, 47, 47);
+    margin: 0 auto;
+    color: white;
+    margin-top: 15%;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px gray;
+}
+.showCounter{
+    padding: 20px 0px;
+    font-weight: bold;
+    color: goldenrod;
+    text-align: center;
+}
+.classBtn{
+    text-align: center;
+}
+.myButton{
+    width: 200px;
+    height: 80px;
+    font-size: 50px;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px rgb(97, 92, 92);
+    margin: 30px 20px;
+    text-align: center;
+    background-color: lightgreen;
+}
